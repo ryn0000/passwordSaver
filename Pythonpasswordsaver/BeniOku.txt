@@ -1,0 +1,4 @@
+Loginwindow.py ana başlatma dosyasıdır.
+
+Uygulama girerken ilk giriceğiniz şifre ana şifreniz olucaktır ve değiştirilemezdir.Dikkatli olunuz.
+
